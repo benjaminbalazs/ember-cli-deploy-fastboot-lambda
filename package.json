@@ -1,6 +1,6 @@
 {
-  "name": "ember-cli-deploy-fastboot-lambda",
-  "version": "0.0.9",
+  "name": "@upsilon/ember-cli-deploy-fastboot-lambda",
+  "version": "0.1.0",
   "description": "An ember-cli-deploy plugin for building FastBoot and deploying to AWS Lambda.",
   "directories": {
     "doc": "doc",
@@ -11,7 +11,7 @@
     "start": "ember server",
     "test": "ember try:testall"
   },
-  "repository": "https://github.com/bustlelabs/ember-cli-deploy-fastboot-lambda",
+  "repository": "https://github.com/upsilon-it/ember-cli-deploy-fastboot-lambda",
   "engines": {
     "node": ">= 0.10.0"
   },
